@@ -356,14 +356,13 @@
   * [Linear Discriminant Analysis](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/linear_discriminant_analysis.py)
   * [Linear Regression](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/linear_regression.py)
   * [Logistic Regression](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/logistic_regression.py)
-  * Lstm
-    * [Lstm Prediction](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/lstm/lstm_prediction.py)
   * [Multilayer Perceptron Classifier](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/multilayer_perceptron_classifier.py)
   * [Polymonial Regression](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/polymonial_regression.py)
   * [Random Forest Classifier](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_classifier.py)
   * [Random Forest Regressor](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_regressor.py)
   * [Scoring Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/scoring_functions.py)
   * [Sequential Minimum Optimization](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/sequential_minimum_optimization.py)
+  * [Similarity Search](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/similarity_search.py)
   * [Support Vector Machines](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/support_vector_machines.py)
   * [Word Frequency Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/word_frequency_functions.py)
 
@@ -456,6 +455,7 @@
     * [Harmonic Series](https://github.com/TheAlgorithms/Python/blob/master/maths/series/harmonic_series.py)
     * [P Series](https://github.com/TheAlgorithms/Python/blob/master/maths/series/p_series.py)
   * [Sieve Of Eratosthenes](https://github.com/TheAlgorithms/Python/blob/master/maths/sieve_of_eratosthenes.py)
+  * [Sigmoid](https://github.com/TheAlgorithms/Python/blob/master/maths/sigmoid.py)
   * [Simpson Rule](https://github.com/TheAlgorithms/Python/blob/master/maths/simpson_rule.py)
   * [Softmax](https://github.com/TheAlgorithms/Python/blob/master/maths/softmax.py)
   * [Square Root](https://github.com/TheAlgorithms/Python/blob/master/maths/square_root.py)
@@ -695,6 +695,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_067/sol1.py)
   * Problem 069
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_069/sol1.py)
+  * Problem 070
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_070/sol1.py)
   * Problem 071
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_071/sol1.py)
   * Problem 072
@@ -707,12 +709,16 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_075/sol1.py)
   * Problem 076
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_076/sol1.py)
+  * Problem 077
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_077/sol1.py)
   * Problem 080
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_080/sol1.py)
   * Problem 081
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_081/sol1.py)
   * Problem 087
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_087/sol1.py)
+  * Problem 089
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_089/sol1.py)
   * Problem 091
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_091/sol1.py)
   * Problem 097
@@ -731,10 +737,14 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_123/sol1.py)
   * Problem 125
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_125/sol1.py)
+  * Problem 129
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_129/sol1.py)
   * Problem 173
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_173/sol1.py)
   * Problem 174
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_174/sol1.py)
+  * Problem 188
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_188/sol1.py)
   * Problem 191
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_191/sol1.py)
   * Problem 203
@@ -855,6 +865,8 @@
   * [Co2 Emission](https://github.com/TheAlgorithms/Python/blob/master/web_programming/co2_emission.py)
   * [Covid Stats Via Xpath](https://github.com/TheAlgorithms/Python/blob/master/web_programming/covid_stats_via_xpath.py)
   * [Crawl Google Results](https://github.com/TheAlgorithms/Python/blob/master/web_programming/crawl_google_results.py)
+  * [Crawl Google Scholar Citation](https://github.com/TheAlgorithms/Python/blob/master/web_programming/crawl_google_scholar_citation.py)
+  * [Currency Converter](https://github.com/TheAlgorithms/Python/blob/master/web_programming/currency_converter.py)
   * [Current Stock Price](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_stock_price.py)
   * [Current Weather](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_weather.py)
   * [Daily Horoscope](https://github.com/TheAlgorithms/Python/blob/master/web_programming/daily_horoscope.py)
